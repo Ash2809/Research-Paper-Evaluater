@@ -3,3 +3,10 @@ pdfplumber
 scikit-learn
 pandas
 # google-colab
+numpy
+nltk
+langchain
+-U langgraph
+python-dotenv
+-U langchain-community
+-U langchain-google-genai
