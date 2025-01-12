@@ -10,3 +10,4 @@ langchain
 python-dotenv
 -U langchain-community
 -U langchain-google-genai
+pydrive
